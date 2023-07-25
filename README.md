@@ -45,6 +45,8 @@ A2. This provides insights into how attention is propagated and shared across th
 ### 5. [ReceptionFields GradCAM](https://github.com/shelfwise/receptivefield/blob/master/notebooks/minimal_example_with_pytorch_API.ipynb)
 ### 6. [Effective Receptive Field](hhttps://github.com/DingXiaoH/RepLKNet-pytorch/blob/main/erf/visualize_erf.py)
 ### 7. [Fourier GradCAM](https://github.com/xxxnell/how-do-vits-work/blob/transformer/fourier_analysis.ipynb)
+### 7. [CNN GradCAM](https://github.com/novice03/timm-vis/blob/main/details.ipynb)
+### 7. [CNN HeatMap](https://github.com/gsurma/cnn_explainer/blob/main/cnn_area_importance_heatmaps.ipynb)
 ### 8. [Masked Visualized](https://github.com/youweiliang/evit/blob/master/visualize_mask.py) -->
 
 ## How to cite
